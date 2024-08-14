@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/avatarbg2.jpg");
+    font-size: 18px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.class-1 {
+    background-color: rgba(252, 252, 252, 0.8);
+    
+}
+.tv {
+    font-size: 26px;
+}
+.hoveri-1:hover {
+    color: red;
+}
+.gilaki {
+    color: white;
+    background-color: rgba(255, 0, 0, 0.8);
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    padding-top: 11px;
+    border-radius: 4px;
+   
+}
+.gilaki:hover {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
+.star {
+    position: relative;
+    bottom: 10px;
+}
+.star:hover {
+    cursor: pointer;
+}
+.cardi-1 {
+    background-color: rgba(0, 0, 0, 0.8);
+    max-width: 500px;
+    width: 100%;
+    margin-top: 150px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    
+}
+.mama-cardi {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.witcher-satauri {
+    font-size: 32px;
+}
+.fotoebi {
+    height: 400px;
+    object-fit: cover;
+    
+}
+.cardebi {
+    background-color: black;
+    height: 400px;
+}
+.navbar-2 {
+    display: none;
+    
+}
+.section-margin {
+    margin-top: 50px;
+}
+.shemoweva-marcxnidan {
+    margin-left: 10px;
+}
+.shemoweva-marjvnidan {
+    margin-right: 10px;
+}
+.shemoweva {
+    padding-inline: 40px;
+}
+.cardebi:hover {
+    cursor: pointer;
+}
+.gverdebis-shemoweva {
+    padding-inline: 40px;
+}
+.trailer {
+    margin-left: 20px;
+    margin-bottom: 2px;
+    height: 41px;
+    margin-left: -2px;
+}
+
+.most {
+    position: relative;
+    top: 40px;
+    left: 65px;
+    font-size: 26px;
+    width: fit-content;
+}
+.witcher-satauri {
+    font-size: 40px;
+}

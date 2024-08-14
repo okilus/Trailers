@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/sengoku.jpg");
+    font-size: 18px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-color: black;
+
+}
+.class-1 {
+    background-color: rgba(252, 252, 252, 0.8);
+    
+}
+.tv {
+    font-size: 26px;
+}
+.hoveri-1:hover {
+    color: red;
+}
+.gilaki {
+    color: white;
+    background-color: rgba(255, 0, 0, 0.8);
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    padding-top: 11px;
+    border-radius: 4px;
+    
+}
+.gilaki:hover {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
+.star {
+    position: relative;
+    bottom: 10px;
+}
+.star:hover {
+    cursor: pointer;
+}
+.cardi-1 {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: none;
+    max-width: 500px;
+    width: 100%;
+}
+.witcher-satauri {
+    font-size: 32px;
+}
+.fotoebi {
+    height: 350px;
+    object-fit: cover;
+    
+}
+.cardebi {
+    background-color: black;
+    border: 2px solid rgba(255, 0, 0, 0.6);
+}
+.navbar-2 {
+    display: none;
+    
+}
+.gverdebis-shemoweva {
+    padding-inline: 40px;
+}
+.section-margin {
+    margin-top: 50px;
+}
+.shemoweva-marcxnidan {
+    margin-left: 10px;
+}
+.shemoweva-marjvnidan {
+    margin-right: 10px;
+}
+.shemoweva {
+    padding-inline: 40px;
+}
+.cardebi:hover {
+    cursor: pointer;
+}
+.footer {
+    margin-top: 100px;
+}
+.footer-foto {
+    object-fit: cover;
+    color: white;
+    height: 300px;
+    position: relative;
+}
+.shavi {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%; 
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 6px;
+}
+.bolo-gilaki {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.trailer {
+    margin-left: 20px;
+    margin-bottom: 1px;
+    height: 41px;
+    background-color: rgba(250, 0, 0, 0);
+    color: red;
+    border: 2px solid red;
+}

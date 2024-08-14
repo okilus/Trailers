@@ -1,0 +1,83 @@
+
+@media (max-width:1800px) {
+    .most {
+        margin-left: 30%;
+        margin-bottom: 20px;
+    }
+
+    .cardi-1 {
+        margin: 0 auto;
+        margin-top: 150px;
+        margin-bottom: 50px;
+        
+    }
+
+    .section-2,
+    .section-3,
+    .section-4 {
+        max-width: 1800px;
+        width: 100%;
+    }
+
+    .section-margin {
+        margin: 0 auto;
+    }
+
+    .cardebi {
+        margin-top: 50px;
+        
+    }
+
+}
+
+@media (max-width:1616px) {
+    .section-2,
+    .section-3,
+    .section-4 {
+        max-width: 1600px;
+        width: 67%;
+        column-gap: 100px;
+        
+    }
+}
+
+@media (max-width:1400px) {
+    .thor-section-1 {
+        flex-direction: column;
+
+    }
+
+    .thor-coveris-foto {
+        max-width: 300px;
+        height: 450px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+
+    .section-2,
+    .section-3,
+    .section-4 {
+        max-width: 1800px;
+        width: 65%;
+        column-gap: 100px;
+    }
+}
+
+@media (max-width:1024px) {
+    .navbar-1 {
+        display: none;
+    }
+
+    .navbar-2 {
+        display: block;
+    }
+
+    .gvgv {
+        display: none;
+    }
+    
+    .section-2,.section-3,.section-4 {
+        column-gap: 150px;
+        width: 100%;
+    }
+}
